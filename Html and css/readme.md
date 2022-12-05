@@ -8,7 +8,7 @@
 
  **project_2**
 
-![project1Image](../Html%20and%20css/project_2/output.png)
+![project2Image](../Html%20and%20css/project_2/output.png)
 
 **Live link**
   [source](https://helpful-kitsune-8e48ce.netlify.app/)
@@ -17,7 +17,7 @@
 
 **project_3**
 
-![project1Image](../Html%20and%20css/project_3/output.png)
+![project3Image](../Html%20and%20css/project_3/output.png)
 
 **Live link**
   [source](https://frolicking-crisp-3c9ba6.netlify.app/)
@@ -25,14 +25,14 @@
 
 **project_4**
 
-![project1Image](../Html%20and%20css/project_4/output.png)
+![project4Image](../Html%20and%20css/project_4/output.png)
 
 **Live link**
   [source](https://lucent-cajeta-751d26.netlify.app/)
 
 **project_5**
 
-![project1Image](../Html%20and%20css/project_5/output.png)
+![project5Image](../Html%20and%20css/project_5/output.png)
 
 
 
@@ -41,7 +41,7 @@
 
 **project_6**
 
-![project1Image](../Html%20and%20css/project_6/output.png)
+![project6Image](../Html%20and%20css/project_6/Output.png)
 
 
 **Live link**
