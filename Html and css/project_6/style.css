@@ -1,0 +1,82 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Alexandria:wght@200;400;600&display=swap');
+
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Alexandria', sans-serif;
+}
+
+.container{
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    background-color: #2b2923;
+    height: 100vh;
+}
+nav{
+   display: flex;
+   justify-content: space-between;
+   color: #949491;
+   padding: 10px;
+   margin-left: 10%;
+   margin-right: 10%;
+   
+}
+nav div{
+    display: flex;
+}
+nav  img{
+    height: 40px;
+}
+nav ul{
+    display:flex;
+    align-items: center;
+    font-size: 13px;
+}
+nav ul li{
+    list-style: none;
+    margin-right: 35px;
+}
+nav button{   
+    margin: auto;
+    background-color: inherit;
+    padding: 5px 10px;
+    color:#8b7e33;
+    border: 1px solid #8b7e33;
+    border-radius: 5px;
+}
+
+main div{
+    display: flex;
+    /* justify-content: space-between; */
+    margin: 2% 10%;
+   
+   
+}
+h1{
+  margin-right: 20%;
+  color: #ffff;
+  font-size: 56px;
+ 
+}
+p{
+    color: rgb(180, 178, 178);
+    max-width: 324px;
+    font-size: 14px;
+    padding-top: 20px;
+    /* font-weight: 200; */
+
+
+}
+main img{
+ width: 80%;
+ background-position: center;
+ margin-left: 10%;
+ margin-right: 10%;
+ height: 325px;
+ 
+}
+
+

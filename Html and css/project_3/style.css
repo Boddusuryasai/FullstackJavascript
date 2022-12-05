@@ -1,0 +1,147 @@
+/* You can not modify anything from the HTML file */
+/* You can only modify the CSS file */
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: 'Orbitron', sans-serif;
+}
+body{
+    max-width: 1440px;
+    margin-left: auto;
+    margin-right: auto;
+    height: 100vh;
+}
+.navbar-container{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    margin-top: 20px;
+}
+.navbar-container>div>img{
+    height: 42px;
+}
+.list{
+    list-style-type: none;
+    display: flex;
+    margin-left: 40px;
+
+}
+.list-item{
+    padding-right: 40px;
+    size: 20px;
+    
+}
+ul>:first-child{
+     position: relative;
+    font-weight: 600;
+    text-decoration: underline;
+}
+/* ul>:first-child::after{
+    position: absolute;
+    width:10px;
+    background-color: rgb(17, 16, 16);
+    top: 20px;
+} */
+.button-group{
+    display: flex;
+    margin-right: -53px;
+    /* align-items: center; */
+}
+.search-icon > svg{
+    padding-top: 7px;
+    height: 25px !important;
+}
+.nav-button{
+    padding: 2px 28px;
+    border: 2px solid rgb(61, 59, 59);
+    border-radius: 8px;
+    background-color: #fff;
+    font-size: medium;
+}
+.hero-container{
+    position: relative;
+}
+
+.square>img{
+    height: 277px;
+    width: 277px;
+    position: absolute;
+    top: 215px;
+    left: 253px;
+}
+.star>img{
+    position: absolute;
+    height: 60px;
+    right: 39px;
+    top: 85px;
+}
+.star:nth-of-type(2)>img {
+    position: absolute;
+    height: 42px;
+    top: 398px;
+    right: 631px;
+
+   }
+.globe>img{
+    position: absolute;
+    height: 56px;
+    top: 32px;
+    left: 720px;
+}
+.hero-container-right{
+    position: absolute;
+    left: 545px;
+    top: 139px;
+}
+.globe~div >img{
+    position: absolute;
+    height: 398px;
+    width: 382px;
+    left: 87px;
+    top: 45px;
+}
+.hero-heading{
+    font-size: 46px;
+    /* margin: 22px; */
+    margin-left: 74px;
+    margin-top: 22px;
+    margin-bottom: 22px;
+}
+.hero-description{
+    font-family: "poppins";
+    font-size: 12px;
+    padding: 0px 101px;
+    text-align: center;
+}
+.button-email{
+    margin-top: 56px;
+    margin-bottom: 56px;
+    margin-left: 269px;
+    padding: 2px 15px;
+    border: solid black 2px;
+    border-radius: 5px;
+    background-color: #fff;
+}
+.button-join{
+    background-color: black;
+    color: #fff;
+    padding: 2px;
+    border-radius: 5px;
+}
+.hero-container-right> div>h4 {
+    text-align: center;
+    font-family: "poppins";
+    font-weight: 300;
+    color: rgb(139, 135, 135);
+}
+
+.icons{
+    text-align: center;
+    margin: 10px;
+    padding-left: 20px;
+}
+.icons span>img{
+    margin-right: 10px;
+    height: 20px;
+}
