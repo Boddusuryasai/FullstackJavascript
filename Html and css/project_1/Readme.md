@@ -6,3 +6,6 @@
 3. Flexbox
 
 ![](../project_1/output.png)
+
+**Live link**
+  [source](https://clever-jelly-c68079.netlify.app/)

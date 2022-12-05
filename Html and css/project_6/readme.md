@@ -6,3 +6,5 @@
 3. Flexbox
 
 ![](../project_6/output.png)
+**Live link**
+  [source](https://gregarious-dolphin-22c2c2.netlify.app/)

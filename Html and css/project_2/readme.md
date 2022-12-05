@@ -6,3 +6,5 @@
 3. Flexbox
 
 ![](../project_2/output.png)
+**Live link**
+  [source](https://helpful-kitsune-8e48ce.netlify.app/)
