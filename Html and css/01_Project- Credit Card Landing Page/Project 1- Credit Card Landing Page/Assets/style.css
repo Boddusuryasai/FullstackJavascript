@@ -1,0 +1,202 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+body{
+    color: white;
+    overflow-x: hidden;
+    font-family: Roboto;
+}
+/* .....utility clasess */
+.flex{
+    display: flex;
+}
+.flex-row{
+    flex-direction: row;
+}
+.flex-col{
+    flex-direction: column;
+}
+.justify-center{
+    justify-content: center;
+}
+.items-center{
+    align-items: center;
+}
+.h-20{
+    height: 30px;
+    margin: 5px auto;
+}
+.gap-4{
+    gap: 10px;
+}
+.gap-6{
+    gap: 20px;
+}
+.bg-pink{
+    background-color: #D531D0;
+}
+.text-white{
+    color: white;
+}
+.mr-auto{
+    margin-right: auto;
+}
+.absolute{
+    position: absolute;
+}
+.relative{
+    position: relative;
+}
+.gap-8{
+    gap:60px
+}
+.bg-black{
+    background-color: black;
+}
+.p-20{
+    padding: 40px 40px;;
+}
+/* ...................... */
+.container{
+    max-width: 1440px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.flex-grow{
+    flex-grow: 1; /* default 0 */
+  }
+  .b-inset{
+    border-style: outset;
+    border-width: 1px;
+    border-bottom: 0px;
+    border-right: 0px;
+   
+   
+}
+.my-4{
+    margin: 20px 0px;
+}
+.b-insert-bold{
+    border-style: outset;
+    border-width: 2px;
+    border-bottom: 0px;
+    border-right: 0px;
+   
+}
+.bg-pink-light{
+    background-color: #f0dcef;
+}
+.f-20{
+    font-size: 20px;
+}
+.bg-gray{
+    background-color: #545252;
+}
+.g-10{
+    gap:200px;
+}
+ul{
+    list-style: none;
+}
+main{
+    background-color: black;
+    
+}
+button{
+    background-color: inherit;
+    color: white;
+    font-size: medium;
+    font-weight: 500;
+}
+select{
+    border: none;
+    color: white;
+    background-color: inherit;
+}
+h1{
+    font-size:80px;
+font-weight: 500;
+}
+span{
+    color:#D531D0
+}
+hero{
+    margin:5%  9% ;
+    margin-bottom: 0px;
+    padding: 20px 0px;
+    /* height: 80vh; */
+}
+header{
+    height: 10vh;
+    
+}
+.hero-p{
+    width:392px;
+
+}
+.count{
+    font-size: 40px;
+    font-weight: 400;
+}
+.plus{
+    font-size: 40px;
+    font-weight:700;
+}
+.backcards{
+    position: absolute;
+    right:100px;
+    top:10px
+
+}
+.backcards img{
+    height: 400px;
+
+
+}
+.frontcards{
+    position: absolute;
+    right:-250px;
+    top:100px
+}
+.frontcards img{
+    height: 400px;
+    width: 800px;
+
+}
+.text-center{
+    text-align: center;
+}
+
+.section-1{
+    margin-top:0px;
+    padding: 30px;
+    background-color: rgb(33, 32, 32);
+}
+.section-1-p{
+    width: 381px;
+    font-size: 20px;
+}
+.section-1-h{
+    width:700px;
+    line-height: 80px;
+}
+.vcards{
+    display: block;
+    position: relative;
+    height: 500px;
+   margin: auto;
+   bottom: 20px;
+   left:0;
+   right:0;  
+}
+.rectangle-1{
+    position: absolute;
+
+}
