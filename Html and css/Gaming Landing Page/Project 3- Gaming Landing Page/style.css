@@ -1,0 +1,168 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    
+}
+body{
+    color: white;
+    overflow-x: hidden;
+    font-family: Roboto;
+}
+/* .....utility clasess */
+.flex{
+    display: flex;
+}
+.flex-row{
+    flex-direction: row;
+}
+.flex-col{
+    flex-direction: column;
+}
+.justify-center{
+    justify-content: center;
+}
+.items-center{
+    align-items: center;
+}
+.f-wrap{
+    flex-wrap: wrap;
+}
+.h-20{
+    height: 30px;
+    margin: 5px auto;
+}
+.gap-4{
+    gap: 10px;
+}
+.gap-6{
+    gap: 20px;
+}
+.bg-pink{
+    background-color: #D531D0;
+}
+.text-white{
+    color: white;
+}
+.text-black{
+    color: rgb(9, 8, 8);
+}
+.mr-auto{
+    margin-right: auto;
+}
+.absolute{
+    position: absolute;
+}
+.relative{
+    position: relative;
+}
+.gap-8{
+    gap:60px
+}
+.bg-black{
+    background-color: black;
+}
+.p-20{
+    padding: 65px 0px
+}
+.container{
+    max-width: 1440px;
+    margin: 0px auto;
+    overflow: hidden;
+}
+.justify-around{
+    justify-content: space-around;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.flex-grow{
+    flex-grow: 1; /* default 0 */
+  }
+
+.b-inset{
+    border-style: outset;
+    border-width: 1px;
+    border-bottom: 0px;
+    border-right: 0px;
+}
+
+.my-4{
+    margin: 20px 0px;
+}
+.my-3{
+    margin-top: 10px;
+}
+.b-insert-bold{
+    border-style: outset;
+    border-width: 2px;
+    border-bottom: 0px;
+    border-right: 0px;
+   
+}
+.bg-pink-light{
+    background-color: #f0dcef;
+}
+.f-20{
+    font-size: 20px;
+}
+.bg-gray{
+    background-color: #545252;
+}
+.g-10{
+    gap:200px;
+}
+.text-center{
+    text-align: center;
+}
+.p-5{
+    padding: 0 0 5% 5%;
+}
+.main{
+    background-image: url("./Assets/Photos/futuristic-bg.png");
+     padding:10px 5%;
+     background-position: center;
+}
+ul{
+    list-style: none;
+}
+.btn-orange{
+    background-color: #F4694C;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+}
+.btn-transparent{
+    padding: 8px 15px;
+    background-color: inherit;
+    border: 2px solid white;
+    border-top: 0.5px solid white;
+    color: white;
+    margin-left: 20px;
+    
+}
+.hero-h1{
+    width: 506px;
+    line-height: 1.5;
+    font-size: 54px;
+}
+.hero-h1~p{
+    width: 450px;
+    color: #c3bebe;
+    line-height: 2;
+}
+.play-btn{
+    height: 350px;
+    /* width: 200px; */
+    display: flex;
+}
+/* h3{
+    width: 200px;
+} */
+section>h1{
+    font-size: 45px;
+    text-align: center;
+    width:620px;
+    color: black;
+}
