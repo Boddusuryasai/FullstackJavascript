@@ -94,6 +94,9 @@ body{
 .my-3{
     margin-top: 10px;
 }
+.m-5{
+    margin: 5%;
+}
 .b-insert-bold{
     border-style: outset;
     border-width: 2px;
@@ -119,6 +122,9 @@ body{
 .p-5{
     padding: 0 0 5% 5%;
 }
+.text-light{
+color: #9c9a9a;
+}
 .main{
     background-image: url("./Assets/Photos/futuristic-bg.png");
      padding:10px 5%;
@@ -132,6 +138,9 @@ ul{
     color: white;
     padding: 10px 15px;
     border: none;
+}
+.text-orange{
+    color: #F4694C;
 }
 .btn-transparent{
     padding: 8px 15px;
@@ -166,3 +175,27 @@ section>h1{
     width:620px;
     color: black;
 }
+.cards{
+    padding-top: 50px;
+    
+    padding-bottom: 50px;
+    background-color: black;
+}
+.game-svg{
+    position: relative;
+    bottom: 412px;
+    left: 340px;
+}
+.centered {
+    position: absolute;
+    width: 360px;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+  }
+  .centered h1{
+    font-weight:bolder;
+  }
+  li:first-child{
+    color: white;
+  }
