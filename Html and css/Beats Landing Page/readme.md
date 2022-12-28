@@ -1,5 +1,3 @@
-# Replicate the Following Output
+Output
 
-`Assests are Provided!`
-
-![Project 5](./Main%20Landing%20page.png)
+![Image](./Main%20Landing%20page.png)
