@@ -48,9 +48,30 @@
   [source](https://gregarious-dolphin-22c2c2.netlify.app/)
 
   **Credit card landing page**
+  
+   ![Image](../Html%20and%20css/Credit%20card%20Landing%20Page/Credit%20card%20landing%20page.png)
 
   **Live link**
   [source](https://imaginative-sundae-f583a8.netlify.app/)
+
+  **Real Estate Landing Page**
+
+   ![Image](../Html%20and%20css/Real%20Estate%20Landing%20Page/Real%20Estate%20-%20Desktop.png)
+
+  **Live link**
+  [link](https://nimble-sorbet-6dd802.netlify.app/)
+
+**Gaming Landing page**
+
+  ![Image](../Html%20and%20css/Gaming%20Landing%20Page/Gaming%20Landing%20Page.png)
+
+  [live link](https://warm-sherbet-d82861.netlify.app/)
+
+ **Beats Landing Page**
+
+  ![Image](../Html%20and%20css/Beats%20Landing%20Page/Main%20Landing%20page.png)
+
+[live link](https://zippy-belekoy-63b2bf.netlify.app/)
 
 ## Responsive vs code website clone 
 
