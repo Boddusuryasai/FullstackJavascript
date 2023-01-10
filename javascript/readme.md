@@ -67,3 +67,13 @@ This webpage is built using HTML, CSS, and JavaScript. It makes use of the follo
 ![output](./shadeup/Proj_Image/Project.png)
 
 [live link](https://legendary-faloodeh-0a3d33.netlify.app/)
+
+
+## Quiz App
+
+A simple quiz app that allows users to test their knowledge  , created with html css and javascript.
+
+
+[Live link](https://aquamarine-macaron-ee89ba.netlify.app/) 
+
+![](./JsQuizApp/Image/Quiz_app.png)
